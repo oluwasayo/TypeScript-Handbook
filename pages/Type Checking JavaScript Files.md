@@ -682,7 +682,7 @@ class SortableSet extends Set {
 }
 ```
 
-Note that `@extends` only works with classes. Currently, there is no way for a constructor function extend a class.
+Note that `@extends` only works with classes. Currently, there is no way for a constructor function to extend a class.
 
 ## `@enum`
 
